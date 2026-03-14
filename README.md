@@ -3,6 +3,7 @@
 ## Repositories
 - Goujon (Private)
 - CIC (Private)
+- SNU (Private)
 
 ## Personal Data
 - Birth : 7th Jan, 1999, Republic of Korea
