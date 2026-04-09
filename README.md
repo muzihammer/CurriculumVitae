@@ -4,6 +4,7 @@
 - Goujon (Private)
 - CIC (Private)
 - SNU (Private)
+- SNU_FACM (Public)
 
 ## Personal Data
 - Birth : 7th Jan, 1999, Republic of Korea
