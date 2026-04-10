@@ -3,7 +3,7 @@
 ## Repositories
 - Goujon (Private)
 - CIC (Private)
-- SNU (Public)
+- SNU_FAM (Public)
 - SNU_FACM (Public)
 
 ## Personal Data
