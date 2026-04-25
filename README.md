@@ -28,6 +28,13 @@
   
     _Combined Masters/Doctorate_
 
+## Research Interests
+- Geology
+  - Glaciology
+  - Numerical Modelling & AI
+  - Greenhouse Gas
+  - Atmosperic Chemistry
+
 ## Work Experiences
 - Sep.2020 ~ Jul.2022 : _Bluega_
   - Developer(Industrial Technical Personnel)
