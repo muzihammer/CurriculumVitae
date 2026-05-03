@@ -35,6 +35,9 @@
   - Greenhouse Gas
   - Atmosperic Chemistry
 
+## Publications
+- A Transient Firn Diffusion Model Based on High-Resolution Ice Core Records and Physical Properties at Canisteo Peninsula Ice Rise. (in prep.)
+
 ## Work Experiences
 - Sep.2020 ~ Jul.2022 : _Bluega_
   - Developer(Industrial Technical Personnel)
