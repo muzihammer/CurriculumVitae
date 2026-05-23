@@ -15,11 +15,11 @@
 - Mar.2017 ~ Feb.2023 : Kyung Hee University
   - Department of Software Convergence
   
-    _Bachelor of Software Convergence_
+    _Bachelor of Engineering_
 
-  - Department of Engineering
+  - Department of Mechanical Engineering
   
-    _Bachelor of Mechanical Engineering_
+    _Bachelor of Engineering_
   
   _(GPA 4.03/4.5 | Major GPA 4.11/4.5)_
 
