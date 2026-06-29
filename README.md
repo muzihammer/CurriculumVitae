@@ -3,9 +3,9 @@
 ## Repositories (Code available upon request.)
 - Goujon (Private)
 - CIC (Private)
-- SNU_model(Euler) (Private)
-- SNU_model(Lagrange) (Private)
-- SNU_FACM (Public)
+- SNU_FirnModel(Euler) (Private)
+- SNU_FirnModel(Lagrange) (Private)
+- SNU_FirnAirChemistryModel (Public)
 
 
 ## Personal Data
