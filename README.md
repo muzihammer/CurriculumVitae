@@ -3,8 +3,10 @@
 ## Repositories
 - Goujon (Private)
 - CIC (Private)
-- SNU_FAM (Public)
+- SNU_model(Euler) (Private)
+- SNU_model(Lagrange) (Private)
 - SNU_FACM (Public)
+Code available upon request.
 
 ## Personal Data
 - Birth : 7th Jan, 1999, Republic of Korea
@@ -36,7 +38,7 @@
   - Atmosperic Chemistry
 
 ## Publications
-- A Transient Firn Diffusion Model Based on High-Resolution Ice Core Records and Physical Properties at Canisteo Peninsula Ice Rise. (in prep.)
+- A Multiphysics Transient Firn Model for Ice-Core Gas Record Interpretation (in prep.)
 
 ## Work Experiences
 - Sep.2020 ~ Jul.2022 : _Bluega_
