@@ -1,12 +1,12 @@
 ﻿# CurriculumVitae
 
-## Repositories
+## Repositories (Code available upon request.)
 - Goujon (Private)
 - CIC (Private)
 - SNU_model(Euler) (Private)
 - SNU_model(Lagrange) (Private)
 - SNU_FACM (Public)
-Code available upon request.
+
 
 ## Personal Data
 - Birth : 7th Jan, 1999, Republic of Korea
